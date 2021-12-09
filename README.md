@@ -14,13 +14,13 @@ Zaibi, Ameur & Anis, Ladgham & Sakly, Anis. (2021). *A Lightweight Model for Tra
 
 The model conception map：
 
-![](convnet_fig.png)
+![](./convnet_fig.png)
 
 ## Dataset
 
 43 classes for Traffic Sign Classification
 
-![](Overview-of-the-GTSRB-Dataset.ppm)
+![](./Overview-of-the-GTSRB-Dataset.ppm)
 
 + Information on : https://benchmark.ini.rub.de/gtsrb_dataset.html
 
@@ -36,4 +36,4 @@ There is also a file called `signnames.csv`, which maps numbers into class names
 
 # Project in One Figure
 
-![](procedure.png)
+![](./procedure.png)
