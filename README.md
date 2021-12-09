@@ -1,5 +1,8 @@
 # Simple Improved LeNet-5 on GTSRB (Traffic Sign Classification)
 
+#### WARNING
+There are DNS spoofing in some regions in China or other places, which leads to the images cannot be shown.
+
 ## Declaration
 
 This is the project for class Data Science Programming II.
@@ -14,13 +17,13 @@ Zaibi, Ameur & Anis, Ladgham & Sakly, Anis. (2021). *A Lightweight Model for Tra
 
 The model conception map：
 
-![](https://raw.githubusercontent.com/ElementQi/Improved-LeNet-5-on-GTSRB/main/convnet_fig.png)
+![DNS spoofing?](https://raw.githubusercontent.com/ElementQi/Improved-LeNet-5-on-GTSRB/main/convnet_fig.png)
 
 ## Dataset
 
 43 classes for Traffic Sign Classification
 
-![](https://raw.githubusercontent.com/ElementQi/Improved-LeNet-5-on-GTSRB/main/Overview-of-the-GTSRB-Dataset.ppm)
+![DNS spoofing?](https://raw.githubusercontent.com/ElementQi/Improved-LeNet-5-on-GTSRB/main/Overview-of-the-GTSRB-Dataset.ppm)
 
 + Information on : https://benchmark.ini.rub.de/gtsrb_dataset.html
 
@@ -34,6 +37,6 @@ I download those:
 
 There is also a file called `signnames.csv`, which maps numbers into class names. I found it on kaggle.
 
-# Project in One Figure
+## Project in One Figure
 
-![](https://raw.githubusercontent.com/ElementQi/Improved-LeNet-5-on-GTSRB/main/procedure.png)
+![DNS spoofing?](https://raw.githubusercontent.com/ElementQi/Improved-LeNet-5-on-GTSRB/main/procedure.png)
